@@ -11,7 +11,6 @@ You will need the following to run the above:
   * SNES file for Super Mario World(USA)
 
 ## Results
-Result based on 10 iterations:
 <p align = 'center'>
 <img src = https://i.imgur.com/l2PPwu9.png>
 </p>
